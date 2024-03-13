@@ -1,0 +1,22 @@
+.card__container {
+	position: relative; /* Isto faz com que ele fique por traz dos outros componentes que estarão dentro dele.*/
+	border: 3px solid #3E4357;
+	border-radius: 10px;
+	width: 350px;
+	height: 500px;
+
+	display: flex;
+	overflow: hidden;
+	margin-top: 10px;
+}
+
+.card__img {
+	min-width: 100%;
+	min-height: 100%;
+	transition: transform 1s;
+}
+
+.card__img:hover {
+	transform: scale(1.1); /* Aqui ele pega a propriedade criada no elemento e da um efeito de
+													scale(1.1) significa 110% de zoom, se quiséssemos 100% seria scale(1)*/
+}
