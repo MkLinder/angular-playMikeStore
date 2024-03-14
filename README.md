@@ -1,27 +1,22 @@
-# PlayMikeStore
+# PlayMike Store
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
 
-## Development server
+Este projeto teve a base construída juntamente à DIO, e progressivamente está sendo modificado atualizado.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+![image](https://github.com/digitalinnovationone/js-developer-pokedex/assets/94409465/7ca450fe-7477-4afc-8fb3-fc68de5b266c)
 
-## Code scaffolding
+O menu, até o momento, contém dois links que, ao serem clicados, abrem uma nova guia levando a página da rede social. 
+<br>
+Os cards são interativos, quando passado o mouse por cima a imagem do card aumenta dando a sensação de zoom.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+##
+![image](https://github.com/digitalinnovationone/js-developer-pokedex/assets/94409465/0fbb1d45-6f00-4d74-8f63-a1d42a8e0275)
 
-## Build
+O menu é fixado na tela, ou seja, quando a página é rolada para baixo ele continua aparecendo no mesmo lugar.
+<br>
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+## Estrutura
+Todo o site foi desenvolvido com o conceito de componentes atomizados, então a manutenção e atualização dos dados poderão ser feitos de maneira muito fácil e eficaz. 
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
