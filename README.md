@@ -6,9 +6,9 @@ Este projeto teve a base construída junto à DIO, e progressivamente está send
 
 ![image](https://github.com/digitalinnovationone/js-developer-pokedex/assets/94409465/7ca450fe-7477-4afc-8fb3-fc68de5b266c)
 
-O menu, até o momento, contém dois links que, ao serem clicados, abrem uma nova guia levando a página da rede social. 
+O menu, até o momento, contém dois links que, ao ser clicado, abre uma nova guia levando a página da rede social. 
 <br>
-Os cards são interativos, quando passado o mouse por cima a imagem do card aumenta dando a sensação de zoom.
+Os cards são interativos, quando passado o mouse por cima, a imagem do card aumenta dando a sensação de zoom.
 
 ##
 ![image](https://github.com/digitalinnovationone/js-developer-pokedex/assets/94409465/0fbb1d45-6f00-4d74-8f63-a1d42a8e0275)
