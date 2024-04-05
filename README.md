@@ -2,6 +2,13 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
 
+Para desenvolver este projeto foram usadas as tecnologias: 
+<br>
+<br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,nodejs,typescript,angular)](https://skillicons.dev)   
+
+#
+
 Este projeto teve a base construída junto à DIO, e progressivamente está sendo modificado e atualizado.
 
 ![image](https://github.com/digitalinnovationone/js-developer-pokedex/assets/94409465/7ca450fe-7477-4afc-8fb3-fc68de5b266c)
